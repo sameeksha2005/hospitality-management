@@ -371,7 +371,7 @@ section:nth-child(even){
     text-align: center;
     position: relative;
     overflow: hidden;
-    z-index: ;
+    z-index: 0;
 }
 
 .review .box-container .box img{
